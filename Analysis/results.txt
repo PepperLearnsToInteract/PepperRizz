@@ -1,0 +1,67 @@
+Gaze: 36 stopped: 52
+Verbal: 20 stopped: 33
+Gaze-Verbal: 49 stopped: 59
+Gaze: 36 stopped: 52 whole interaction success rate: 0.031088082901554404
+ 
+interaction success rate: 0.6923076923076923
+ stop rate: 0.044905008635578586
+
+
+Verbal: 20 stopped: 33 whole interaction success rate: 0.020855057351407715
+ 
+interaction success rate: 0.6060606060606061
+ stop rate: 0.03441084462982273
+
+
+Gaze-Verbal: 49 stopped: 59 whole interaction success rate: 0.04135021097046414
+ 
+interaction success rate: 0.8305084745762712
+ stop rate: 0.049789029535864976
+
+
+ANOVA results: 
+
+not significant!
+interacted: f-value: 1.588509316770186, p-value: 0.212
+
+
+
+
+T-test results: 
+
+interacted: 
+
+not significant!
+gaze vs verbal: t-value: 0.2987510856941458, p-value: 0.767
+
+
+not significant!
+gaze vs gaze-verbal: t-value: -1.4424589528606462, p-value: 0.155
+
+
+not significant!
+verbal vs gaze-verbal: t-value: -1.6039481203111197, p-value: 0.116
+
+
+
+
+Z-test results: 
+
+gaze-verbal vs. gaze: 
+
+not significant!
+Z-score:1.4413824842208818 p-value:0.149
+
+
+gaze-verbal vs. verbal: 
+
+not significant!
+Z-score:1.5938389443871557 p-value:0.111
+
+
+gaze vs. verbal: 
+
+not significant!
+Z-score:0.3063499100370021 p-value:0.759
+
+
